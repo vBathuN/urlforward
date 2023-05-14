@@ -1,4 +1,4 @@
 # Web redirection by PHP / HTML / JavaScript / CSS
 
-I will explain each step of this code by improving this code or for questions received.
+4 types of redirection, and each step of the code.
 

@@ -1,2 +1,4 @@
-# php-html-javascript-url-redirect
-Code samples to redirect a directory of a domain in 4 different ways
+# Web redirection by PHP / HTML / JavaScript / CSS
+
+I will explain each step of this code by improving this code or for questions received.
+

@@ -1,7 +1,10 @@
 <?php
-    /* 1. Redirect in PHP */
-    $redirect_url = 'https://sample.com';
-    header('Location: ' . $redirect_url);
+  /* REQUIRED */
+  include 'config.php';
+
+  /* 1. Redirect in PHP */
+  $redirect_url = REDIRECT_URL;
+  header('Location: ' . $redirect_url);
 ?>
 
 <!DOCTYPE html>

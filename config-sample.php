@@ -1,6 +1,6 @@
 <?php 
 
-define('REDIRECT_URL', 'https://vdo.ninja/?director=AwareON&password=Vanakkam10');
+define('REDIRECT_URL', 'https://rtc.rtcs.live/?director=AwareON&password=Vanakkam10');
 
 
 ?>
